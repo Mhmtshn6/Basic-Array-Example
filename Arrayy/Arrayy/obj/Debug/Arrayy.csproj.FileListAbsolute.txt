@@ -1,0 +1,7 @@
+C:\Users\M.ŞAHİN\Source\Repos\Arrayy\Arrayy\bin\Debug\Arrayy.exe.config
+C:\Users\M.ŞAHİN\Source\Repos\Arrayy\Arrayy\bin\Debug\Arrayy.exe
+C:\Users\M.ŞAHİN\Source\Repos\Arrayy\Arrayy\bin\Debug\Arrayy.pdb
+C:\Users\M.ŞAHİN\Source\Repos\Arrayy\Arrayy\obj\Debug\Arrayy.csproj.AssemblyReference.cache
+C:\Users\M.ŞAHİN\Source\Repos\Arrayy\Arrayy\obj\Debug\Arrayy.csproj.CoreCompileInputs.cache
+C:\Users\M.ŞAHİN\Source\Repos\Arrayy\Arrayy\obj\Debug\Arrayy.exe
+C:\Users\M.ŞAHİN\Source\Repos\Arrayy\Arrayy\obj\Debug\Arrayy.pdb
